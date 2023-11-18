@@ -4,7 +4,7 @@ window.addEventListener('load', function(){
         prompt('Te gusto?')
         let saludo1
         if (saludo1 = 'si' || 'Si') {
-             alert('Gracias Papi, te Quiero un monton')
+             alert('Gracias Papi, te Quiero un monton .')
         }
        
     })
